@@ -24,4 +24,8 @@ Final Project by Asix Team at Rakamin Data Science
 - Multivariate Analysis
 - Business Insight
 
+### Stage 2 (Preprocessing)
+- Data Cleansing
+- Feature Engineering
+
 ## Refrences
